@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\H4_API.Application\H4_API.Application.csproj" />
+    <ProjectReference Include="..\H4_API.Core\H4_API.Core.csproj" />
+  </ItemGroup>
+
+</Project>
